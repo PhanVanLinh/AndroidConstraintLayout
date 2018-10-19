@@ -5,3 +5,5 @@
 . To change this margin, use `layout_goneMarginStart`
 
 
+### ConstrainedWidth
+See `test_layout_constrained.xml`,
